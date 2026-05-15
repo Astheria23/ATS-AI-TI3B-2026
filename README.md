@@ -1,4 +1,4 @@
-# 🧠 Kumpulan Tugas Visualisasi Model Arsitektur & Algoritma
+# Kumpulan Tugas Visualisasi Model Arsitektur & Algoritma
 
 **Mata Kuliah:** Kecerdasan Buatan (Artificial Intelligence)  
 **Kelas:** Teknik Informatika 3B  

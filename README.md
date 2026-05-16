@@ -1,7 +1,7 @@
 # Kumpulan Tugas Visualisasi Model Arsitektur & Algoritma
 
 **Mata Kuliah:** Kecerdasan Buatan (Artificial Intelligence)  
-**Kelas:** Teknik Informatika 3B  
+**Kelas:** D4 Teknik Informatika 3B  
 
 ## Deskripsi Repository
 Repository ini berfungsi sebagai wadah pengumpulan tugas mata kuliah Kecerdasan Buatan untuk kelas Teknik Informatika 3B. Setiap mahasiswa ditugaskan untuk merancang dan membangun visualisasi berbasis web (menggunakan HTML, CSS, dan JavaScript) untuk mensimulasikan cara kerja dari berbagai model arsitektur sistem maupun algoritma *machine learning*. 
@@ -37,4 +37,4 @@ Setiap model arsitektur bersifat unik per mahasiswa untuk memastikan keragaman i
 | 23 | | | | |
 
 ---
-*Dikelola oleh Kelas Teknik Informatika 3B*
+*Dikelola oleh Kelas D4 Teknik Informatika 3B* 2026

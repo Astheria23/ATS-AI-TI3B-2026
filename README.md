@@ -30,8 +30,8 @@ Setiap model arsitektur bersifat unik per mahasiswa untuk memastikan keragaman i
 | 16 | Sarah Yohana | 714230034 | Linear Regression | [Lihat Simulasi](https://sarah110704.github.io/LinearRegression/) |
 | 17 | Rizqi Iqmal Fauzan | 714230062 | Random Forest | [Lihat Simulasi](https://rizqiiqmal.github.io/Random-Forest/) |
 | 18 | Dwi Puspa Firdaus | 714230065 | GAN | [Lihat Simulasi](https://dwifirdaus08.github.io/animasi-gan/) |
-| 19 | | | | |
-| 20 | | | | |
+| 19 | A. M. Faraziftan | 714230064 | Autoencoder | [Lihat Simulasi](https://faraziftan.github.io/autoencoder-ai/) |
+| 20 | Reyhan Dwiyan Nugraha | 714230038 |  Decision Tree | [Lihat Simulasi](https://reyhandwiyan.github.io/DecisionTree/) |
 | 21 | | | | |
 | 22 | | | | |
 | 23 | | | | |

@@ -32,9 +32,8 @@ Setiap model arsitektur bersifat unik per mahasiswa untuk memastikan keragaman i
 | 18 | Dwi Puspa Firdaus | 714230065 | GAN | [Lihat Simulasi](https://dwifirdaus08.github.io/animasi-gan/) |
 | 19 | A. M. Faraziftan | 714230064 | Autoencoder | [Lihat Simulasi](https://faraziftan.github.io/autoencoder-ai/) |
 | 20 | Reyhan Dwiyan Nugraha | 714230038 |  Decision Tree | [Lihat Simulasi](https://reyhandwiyan.github.io/DecisionTree/) |
-| 21 | | | | |
-| 22 | | | | |
-| 23 | | | | |
+| 21 |Muhamad Saladin Eka Septian |714230037 |BlazePose |[Lihat Simulasi](https://ekastn.github.io/blazepose-visualization/) |
+| 22 |Mochammad Fadhail Fijratullah |714230044 |Naive Bayes | [Lihat Simulasi](https://fadhail.github.io/naive-bayes-simulation/) |
 
 ---
 *Dikelola oleh Kelas D4 Teknik Informatika 3B* 2026

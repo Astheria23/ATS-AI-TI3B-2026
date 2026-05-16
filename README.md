@@ -21,15 +21,15 @@ Setiap model arsitektur bersifat unik per mahasiswa untuk memastikan keragaman i
 | 7 | Muhamad Hilmi Romadoni | 714230057 | A* (A-Star) | [Lihat Simulasi](https://hilmibotak.github.io/A-Star/) |
 | 8 | Muhammad Hisyam Najwan | 714230055 | Support Vector Machine | [Lihat Simulasi](https://hisyamsamam.github.io/svm-visualizer/) |
 | 9 | Moch Restu Agis Burhanudin | 714230059 | KNN | [Lihat Simulasi](https://mrestuab.github.io/uts_KNN/) |
-| 10 | | | |
-| 11 | | | | |
-| 12 | | | | |
-| 13 | | | | |
-| 14 | | | | |
-| 15 | | | | |
-| 16 | | | | |
-| 17 | | | | |
-| 18 | | | | |
+| 10 | Ahmad Lahay Mahendra | 714230053 | LSTM | [Lihat Simulasi](https://mobius0263.github.io/Long-Short-Term-Memory/) |
+| 11 | Indra Agustin | 714230051 | Transformer | [Lihat Simulasi](https://indraagstin025.github.io/) |
+| 12 | Viola Septianti Elsiana | 714230001 | CNN | [Lihat Simulasi](https://violasptntels.github.io/animation-model/) |
+| 13 | Aqila Zafira | 714230068 | RNN | [Lihat Simulasi](https://aqilazafira.github.io/visualization-rnn-ats/) |
+| 14 | Aghni Hasna Mufida | 714230069 | Diffusion Model | [Lihat Simulasi](https://aghniihsn.github.io/ATS-AI-Difussion-Model/) |
+| 15 | Dina Oktafiani | 714230047 | K-Means Clustering | [Lihat Simulasi](https://cinnong.github.io/K-Means/) |
+| 16 | Sarah Yohana | 714230034 | Linear Regression | [Lihat Simulasi](https://sarah110704.github.io/LinearRegression/) |
+| 17 | Rizqi Iqmal Fauzan | 714230062 | Random Forest | [Lihat Simulasi](https://rizqiiqmal.github.io/Random-Forest/) |
+| 18 | Dwi Puspa Firdaus | 714230065 | GAN | [Lihat Simulasi](https://dwifirdaus08.github.io/animasi-gan/) |
 | 19 | | | | |
 | 20 | | | | |
 | 21 | | | | |
